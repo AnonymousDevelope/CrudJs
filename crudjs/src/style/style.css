@@ -1,0 +1,27 @@
+*{
+ margin:0;
+ padding: 0;
+}
+.crudEdit,.crudDelete{
+ width: 100%;
+ border-radius: 0!important;
+ font-weight: 700;
+ font-style: italic;
+ font-size: 20px;
+ height: 100%;
+ display: flex!important;
+ align-items: center;
+ justify-content: center;
+}
+.crudEditTd,.crudDeleteTd{
+ padding: 0!important;
+height: 0;
+}
+.recive{
+ font-weight: 700;
+ font-style: italic;
+ font-size: 20px;
+}
+.crudPersonDoc{
+ text-align: center;
+}
